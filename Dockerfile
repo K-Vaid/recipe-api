@@ -1,4 +1,4 @@
-FROM python:3.9.6-alpine3.14
+FROM python:3.7-alpine
 MAINTAINER Kunal Vaid
 
 ENV PYTHONUNBUFFERED 1
