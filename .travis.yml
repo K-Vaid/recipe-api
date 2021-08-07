@@ -1,6 +1,7 @@
 Language: python
+
 python:
-  - "3.7"
+  - "3.6"
 
 services:
   - docker
