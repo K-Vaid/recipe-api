@@ -9,6 +9,7 @@ from core import models
 USER_MODEL = get_user_model()
 
 admin.site.register(models.Tag)
+admin.site.register(models.Ingredient)
 
 
 @admin.register(USER_MODEL)
